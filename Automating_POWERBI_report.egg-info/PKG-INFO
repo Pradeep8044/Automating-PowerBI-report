@@ -1,0 +1,7 @@
+Metadata-Version: 2.1
+Name: Automating_POWERBI_report
+Version: 0.0.1
+Author: Pradeeplakkam
+Author-email: lakkampradeep@gmail.com
+Requires-Dist: pandas
+Requires-Dist: seaborn

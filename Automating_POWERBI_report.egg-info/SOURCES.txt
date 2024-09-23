@@ -1,0 +1,8 @@
+README.md
+setup.py
+Automating_POWERBI_report.egg-info/PKG-INFO
+Automating_POWERBI_report.egg-info/SOURCES.txt
+Automating_POWERBI_report.egg-info/dependency_links.txt
+Automating_POWERBI_report.egg-info/requires.txt
+Automating_POWERBI_report.egg-info/top_level.txt
+src/__init__.py
